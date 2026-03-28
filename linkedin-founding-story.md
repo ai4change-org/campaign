@@ -20,7 +20,7 @@ Every solution starts with a problem someone is brave enough to name. Every song
 
 We just played ours.
 
-Visit https://ai4change-org.github.io — submit a problem, join the community, or just come see what we're building.
+Visit https://ai4change.org — submit a problem, join the community, or just come see what we're building.
 
 The stage is open.
 

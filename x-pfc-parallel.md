@@ -21,6 +21,6 @@ When you give people the same instrument, the distance between them disappears.
 Every solution starts with a problem.
 Every song starts with a single note.
 
-We just played ours: https://ai4change-org.github.io
+We just played ours: https://ai4change.org
 
 #AI4Change #PlayingForChange #OpenSource

@@ -20,6 +20,6 @@ This is how a farmer in Kenya, a data scientist in Berlin, and a designer in Lag
 
 Open source. Problem-first. Global by design.
 
-Got a problem worth solving? Submit it: https://ai4change-org.github.io
+Got a problem worth solving? Submit it: https://ai4change.org
 
 #AI4Change #OpenSource #AIForGood #BuildInPublic #TechForGood #OpenInnovation #CommunityDriven

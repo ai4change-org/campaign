@@ -67,7 +67,7 @@ We just played our first note.
 
 Visit the site. Submit a problem. Join the community. Or just come listen.
 
-The stage is open: https://ai4change-org.github.io
+The stage is open: https://ai4change.org
 
 GitHub: https://github.com/ai4change-org
 

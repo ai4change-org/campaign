@@ -1,7 +1,9 @@
 # X/Twitter — Manifesto Tweet
 
-Playing for Change proved strangers across the world can make music together.
+Playing for Change: strangers across the world play one song together.
 
-AI4Change is the same idea — but instead of songs, we build open-source solutions to real problems, with AI as the shared instrument.
+AI4Change: strangers across the world solve one problem together — with AI as the shared instrument.
 
-The stage is open: https://ai4change-org.github.io
+The stage is open: https://ai4change.org
+
+#AI4Change #OpenSource #AIForGood

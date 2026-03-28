@@ -20,6 +20,6 @@ The question isn't whether AI will transform the world. It's who gets to be in t
 
 We're opening the door.
 
-https://ai4change-org.github.io
+https://ai4change.org
 
 #AI4Change #AIEquality #OpenSource #AIForGood #TechForGood #FutureOfWork #GlobalCollaboration

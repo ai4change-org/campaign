@@ -4,7 +4,7 @@
 A global open-source initiative inspired by Playing for Change. Instead of musicians creating songs across borders, AI4Change connects problem-solvers worldwide who use AI as their instrument to solve real-world problems. A farmer in Kenya + a data scientist in Berlin + a designer in Lagos = an open-source solution no one could build alone.
 
 **Tagline:** "AI as the Great Equalizer"
-**Website:** https://ai4change-org.github.io
+**Website:** https://ai4change.org
 **GitHub:** https://github.com/ai4change-org
 **Founder:** Valter Silva (13+ years in tech, cloud architect, Perth Australia, Brazilian origin)
 
@@ -68,5 +68,19 @@ Instagram caption for the flywheel/how-it-works visual. Educational but accessib
 
 ### 10. campaign-schedule.md
 A posting schedule: which post goes where, in what order, over the first 7 days. Include timing recommendations (AWST timezone). Structure as a clear calendar.
+
+### 11. reddit-launch.md
+Posts for r/opensource, r/artificial, and r/technology. Tailored to each community's tone. Technical communities get more detail on the model.
+
+### 12. hackernews-launch.md
+Show HN post. Title + text. Focus on the model, the flywheel, and what you're looking for from the community.
+
+### 13. producthunt-launch.md
+Product Hunt listing — tagline, description, topics, and maker's first comment. Community-focused, inviting feedback.
+
+### 14. email-announcement.md
+Launch email for early subscribers. Personal tone, full story, clear CTAs. The most intimate version of the launch message.
+
+---
 
 Write compelling, authentic content. This is a MOVEMENT launch, not a product announcement. Make people FEEL something.
